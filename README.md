@@ -15,4 +15,4 @@ Final Year Project for Bachelor of Computer Science (Hons.)
 - XAMPP
 
 ## Screenshots
-(<img width="1256" height="835" alt="Screenshot 2025-07-23 002459" src="https://github.com/user-attachments/assets/e521b4f0-4fc1-4c04-9d3c-5ba33211f73c" />)
+(<img width="793" height="804" alt="Screenshot 2025-07-23 001924" src="https://github.com/user-attachments/assets/eeea8fe4-e9f1-405a-9bbb-55659ab8fec0" />)
